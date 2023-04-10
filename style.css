@@ -115,7 +115,10 @@ img:hover{
 }
 
 .imgProjet{
-    width: 100%;
+    width: 70%;
+}
+.special{
+    width: 50px;
 }
 
 
