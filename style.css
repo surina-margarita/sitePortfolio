@@ -1,0 +1,123 @@
+
+/* #70e05c,#01345b,#ff9843 vert,bleu,orange
+ #333
+*/
+/* Styles pour le corps de la page */
+div{
+    padding-bottom: 150px;
+}
+
+body {
+    margin-top: 10%;
+    padding: 0;
+    font-family: Biryani, sans-serif;
+}
+
+/* Styles pour l'en-tête */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1.5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 97%;
+    margin-right: 2%;
+}
+
+/* Styles pour le logo ou le nom dans l'en-tête */
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+/* Styles pour la navigation dans l'en-tête */
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Styles pour les sections principales */
+main {
+    margin: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+/* Styles pour les liens vers les projets */
+.project-link {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+/* Styles pour le pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+p{
+    font-family: Montserrat, sans-serif;
+    display: flex;
+
+}
+
+#centre{
+    justify-content: center;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    grid-auto-rows: 40%;
+}
+
+img{
+    width: 40px;
+}
+img:hover{
+
+}
+
+.imgInteret{
+    justify-self: center;
+}
+
+.imgInteret a{
+    position: absolute;
+    margin-top: -1%;
+    margin-left: -6.5%;
+    margin-right: 4%;
+    text-decoration: none;
+}
+
+.imgProjet{
+    width: 100%;
+}
+
+
+
+
