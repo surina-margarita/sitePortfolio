@@ -1,0 +1,22 @@
+Étape 1 : faire le point des productions réalisées en informatique en BUT2 et BUT 3. Pour
+chacune identifier les apprentissages réalisés du point de vue technique, mais aussi humain.
+Étape 2 : Réaliser 1 page web pour détailler chaque réalisation (3 à 4 projets). Les pages
+projets doivent comporter les informations suivantes :
+● Contexte du projet (commande académique, contraintes dans la réalisation, durée, en
+équipe ou seul, projet personnel…)
+● Méthodes de travail et résultats obtenus avec des preuves (GIF, copie d’écran, vidéo de
+projet…)
+● Les compétences travaillées au cours de ce projet, soyez le plus précis possible.
+
+Le site web doit comprendre :
+● une page de présentation de soi : biographie parcours de formation, projet(s)
+professionnel(s) envisagé(s) après le BUT
+● prévoir un CV actualisé en téléchargement
+● les liens vers LinkedIn et Github
+● 3 à 4 pages dédiées chacune à un projet (saé, perso, Code Game Jam, Nuit de l’info…)
+
+- ajouter section stage
+- ajouter section alternance
+- changer parcours envisagé
+- màj CV 
+- mettre CV sur le site
